@@ -1,0 +1,8 @@
+main: me.andreisava4.LaunchInTheSky.Main
+name: LaunchInTheSky
+version: 1.0
+author: andreisava4
+
+commands:
+  Launch:
+    aliases: lch
